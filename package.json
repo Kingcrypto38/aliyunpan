@@ -17,7 +17,7 @@
     "ant-design-vue": "^3.2.3",
     "axios": "^0.27.2",
     "dayjs": "^1.11.2",
-    "dexie": "^3.2.2",
+    "dexie": "^4.0.1",
     "dom-to-image": "^2.6.0",
     "fuzzysort": "^1.9.0",
     "isomorphic-fetch": "^3.0.0",
